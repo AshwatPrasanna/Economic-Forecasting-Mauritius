@@ -1,1 +1,1 @@
-Additional citation: imported libraries in the code (like scikit-learn) were not listed (for brevity), but the packages and their official documentation pages were referred.
+Additional citation: imported libraries in the code (like scikit-learn) were not listed (for brevity), but the packages and their official documentation pages were referred. Similarly, specific references given by Dr. Zaynah Dhunny (project mentor) are not listed unless they significantly affected the code here. Please reach out in case you need more information.
